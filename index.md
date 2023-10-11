@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://koskoscorner.github.io/default/img/buildcat.jpeg)
+![Branching](https://koskoscorner.github.io/default/lrg.jpeg)
 
 
 ### Definition lists can be used with HTML syntax.
